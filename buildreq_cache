@@ -1,0 +1,8 @@
+0.2.1
+gi-docgen
+gnome-online-accounts-dev
+json-glib-dev
+pkgconfig(goa-1.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libuhttpmock-1.0)
+pkgconfig(rest-1.0)
