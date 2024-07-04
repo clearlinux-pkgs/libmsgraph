@@ -1,3 +1,14 @@
+0.2.3 - Jun 18, 2024
+===========================
+ * Fix memory leaks
+ * Fix logger level warning
+
+0.2.2 - May 21, 2024
+===========================
+ * Add remote copy and move functions
+ * Drop Authorization header during download
+ * Fix browsing shared files
+
 0.2.1 - March 4, 2024
 ===========================
  * Fix header include leading to compilation problem
